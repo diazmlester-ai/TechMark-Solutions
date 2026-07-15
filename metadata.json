@@ -1,0 +1,6 @@
+{
+  "name": "TechMark Solutions",
+  "description": "Learn AI Automation and Build Powerful Workflows Without Coding. Modern landing page and AI-powered learning platform with interactive n8n, Zapier, and Make automation walkthroughs, custom course tools, and an AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
